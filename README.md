@@ -1,7 +1,7 @@
-# Detailed Report on SVN and Mercurial 📜
+# Report on SVN and Mercurial 📜
 
 ## 1. Introduction 🚀
-Version control systems (VCS) are essential tools for managing code and tracking changes in software development. **SVN (Apache Subversion) 🏛️** and **Mercurial 🏗️** are two popular version control systems used by developers worldwide. This report provides an in-depth comparison of SVN and Mercurial, along with their basic commands.
+Version control systems (VCS) are essential tools for managing code and tracking changes in software development. **SVN (Apache Subversion) 🏛️** and **Mercurial 🪐** are two popular version control systems used by developers worldwide. This report provides an in-depth comparison of SVN and Mercurial, along with their basic commands.
 
 ## 2. Apache Subversion (SVN) 🏛️
 ### 2.1 Overview
@@ -30,7 +30,7 @@ Apache Subversion (SVN) is a centralized version control system (CVCS) that enab
 | `svn merge <source_branch>` | Merge changes from another branch 🔀 |
 | `svn delete <file>` | Remove a file from version control 🗑️ |
 
-## 3. Mercurial 🏗️
+## 3. Mercurial 🪐
 ### 3.1 Overview
 Mercurial is a **distributed version control system (DVCS) 🌎** known for its simplicity and performance. It is designed to handle projects of all sizes and emphasizes speed and scalability.
 
@@ -59,7 +59,7 @@ Mercurial is a **distributed version control system (DVCS) 🌎** known for its 
 
 ## 4. Comparison of SVN and Mercurial ⚖️
 
-| Feature | SVN 🏛️ | Mercurial 🏗️ |
+| Feature | SVN 🏛️ | Mercurial 🪐 |
 |---------|-----|----------|
 | Type | Centralized 🎯 | Distributed 🌎 |
 | Performance | Moderate ⏳ | High ⚡ |
