@@ -30,7 +30,7 @@ Apache Subversion (SVN) is a centralized version control system (CVCS) that enab
 | `svn merge <source_branch>` | Merge changes from another branch 🔀 |
 | `svn delete <file>` | Remove a file from version control 🗑️ |
 
-## 3. Implementation of Some Basic SVN Commands
+## 2.4 Implementation of Some Basic SVN Commands
 
 ![SVN Version](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/a183b1e38b13c0069448d4683b3fdb0129b7d410/images/svn%20version.png)
 
@@ -86,6 +86,48 @@ Mercurial is a **distributed version control system (DVCS) 🌎** known for its 
 | `hg revert <file>` | Undo local changes ⏪ |
 | `hg merge` | Merge changes from different branches 🔀 |
 | `hg remove <file>` | Remove a file from version control 🗑️ |
+
+# 3.4 Implementation of Some Basic Mercurial Commands
+
+![HG Version](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/aa228fb77a3d52e770a07636178a3420515c19c1/images/hg%20version.png)
+
+---
+
+![HG Repo](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/aa228fb77a3d52e770a07636178a3420515c19c1/images/hg%20repo.png)
+
+---
+
+![HG Echo](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/aa228fb77a3d52e770a07636178a3420515c19c1/images/hg%20echo.png)
+
+---
+
+![HG Commit](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/aa228fb77a3d52e770a07636178a3420515c19c1/images/hg%20commit.png)
+
+---
+
+![HG Clone](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/aa228fb77a3d52e770a07636178a3420515c19c1/images/hg%20clone.png)
+
+---
+
+![HG Pull Update Log](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/aa228fb77a3d52e770a07636178a3420515c19c1/images/hg%20pull%20update%20log.png)
+
+---
+
+![HG Revert](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/aa228fb77a3d52e770a07636178a3420515c19c1/images/hg%20revert.png)
+
+---
+
+![HG Branch](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/aa228fb77a3d52e770a07636178a3420515c19c1/images/hg%20branch.png)
+
+---
+
+![HG Merge](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/aa228fb77a3d52e770a07636178a3420515c19c1/images/hg%20merge.png)
+
+---
+
+![HG Commit Merge](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/aa228fb77a3d52e770a07636178a3420515c19c1/images/hg%20commit%20merge.png)
+
+---
 
 ## 4. Comparison of SVN and Mercurial ⚖️
 
