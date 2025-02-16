@@ -36,6 +36,30 @@ Apache Subversion (SVN) is a centralized version control system (CVCS) that enab
 
 ---
 
+![SVN Repo](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/4c9b83a76a5c9f6abb9bd6ad3136500803792a38/images/svn%20repo.png)
+
+---
+
+![Checkout](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/4c9b83a76a5c9f6abb9bd6ad3136500803792a38/images/Checkout.png)
+
+---
+
+![SVN Commit](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/4c9b83a76a5c9f6abb9bd6ad3136500803792a38/images/svn%20commit.png)
+
+---
+
+![SVN Update and Log](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/4c9b83a76a5c9f6abb9bd6ad3136500803792a38/images/svn%20update%20and%20log.png)
+
+---
+
+![Revert](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/4c9b83a76a5c9f6abb9bd6ad3136500803792a38/images/revert.png)
+
+---
+
+![Branching & Merging](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/4c9b83a76a5c9f6abb9bd6ad3136500803792a38/images/Branching%20%26%20merging.png)
+
+---
+
 ## 3. Mercurial 🪐
 ### 3.1 Overview
 Mercurial is a **distributed version control system (DVCS) 🌎** known for its simplicity and performance. It is designed to handle projects of all sizes and emphasizes speed and scalability.
