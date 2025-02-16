@@ -30,7 +30,7 @@ Apache Subversion (SVN) is a centralized version control system (CVCS) that enab
 | `svn merge <source_branch>` | Merge changes from another branch 🔀 |
 | `svn delete <file>` | Remove a file from version control 🗑️ |
 
-## 3 Implementation of Some Basic SVN Commands
+## 3. Implementation of Some Basic SVN Commands
 
 ![SVN Version](https://raw.githubusercontent.com/harsh0371/DevOps-Assignment/a183b1e38b13c0069448d4683b3fdb0129b7d410/images/svn%20version.png)
 
